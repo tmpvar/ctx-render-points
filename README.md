@@ -1,5 +1,7 @@
 # ctx-render-points
 
+render points using html5 2d canvas
+
 ## install
 
 `npm install ctx-render-points`
