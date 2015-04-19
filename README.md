@@ -6,6 +6,14 @@
 
 ## use
 
+__renderPoints__(`ctx`, `radius`, `array`)
+
+* `ctx` is the RenderingContext2D
+* `radius` is the radius of the points
+* `array` is an array of 2+ item arrays (only indices 0 and 1 will be used)
+
+### example
+
 ```javascript
 var center = require('ctx-translate-center');
 var poly = require('ctx-render-polyline');
